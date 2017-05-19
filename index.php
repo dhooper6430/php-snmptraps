@@ -50,8 +50,8 @@ else {
 
 	<!-- css -->
 	<link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.min.css">
-<!-- 	<link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap-custom.css"> -->
-	<link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap-custom-black.css">
+ 	<link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap-custom.css"> 
+<!-- 	<link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap-custom-black.css"> -->
 	<link rel="stylesheet" type="text/css" href="css/font-awesome/font-awesome.min.css">
 
 	<!-- js -->
