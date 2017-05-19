@@ -3,9 +3,9 @@
 /*	database connection details
  ******************************/
 $db['host'] = "localhost";
-$db['user'] = "snmptrapd";
-$db['pass'] = "snmptrapd";
-$db['name'] = "snmptrapd";
+$db['user'] = "snmptraps";
+$db['pass'] = "snmptraps";
+$db['name'] = "snmptraps";
 $db['port'] = 3306;
 
 /**
